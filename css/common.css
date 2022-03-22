@@ -1,62 +1,78 @@
-.banner__title__h1{
+.banner__title__h1 {
+    font-family: 'Montserrat', sans-serif;
+    size: 40px;
+}
+
+.products {
     font-family: 'Montserrat', sans-serif;
 }
 
-.header__link{
+.products__title {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.services {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main__title {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.contact {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.blog__title {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header__link {
     font-family: 'Open Sans', sans-serif;
 }
 
-.button{
+.button {
+    font-family: 'Open Sans', sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    padding: 9px;
+    max-width: 181px;
+    text-align: center;
+}
+
+.banner__title__h3 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+.text {
     font-family: 'Open Sans', sans-serif;
 }
 
-.banner__title__h2{
+.footer__text {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner__title__h2 {
     font-family: 'Crimson Pro', serif;
 }
 
-.banner__title__h3{
-    font-family: 'Open Sans', sans-serif;
-}
-
-.products{
-    font-family: 'Montserrat', sans-serif;
-}
-
-.products__title{
-    font-family: 'Montserrat', sans-serif;
-}
-
-.services{
-    font-family: 'Montserrat', sans-serif;
-}
-
-.services__title{
+.services__title {
     font-family: 'Crimson Pro', serif;
 }
 
-.main__title{
-    font-family: 'Montserrat', sans-serif;
-}
-
-.main__info{
+.main__info {
     font-family: 'Crimson Pro', serif;
 }
 
-.contact{
-    font-family: 'Montserrat', sans-serif;
-}
-
-.text{
-    font-family: 'Open Sans', sans-serif;
-}
-
-.footer__text{
-    font-family: 'Open Sans', sans-serif;
-}
-.catalog__link{
+.catalog__link {
     font-family: 'Crimson Pro', serif;
 }
 
-.blog__title{
-    font-family: 'Montserrat', sans-serif;
+.container{
+    max-width: 1180px;
+    width: 100%;
+    margin: 0 auto;
 }
